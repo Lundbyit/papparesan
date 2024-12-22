@@ -3,11 +3,10 @@
     {{ $notHidden := where .Site.RegularPages "Params.hidden" "!=" true }}
     {{ $filtered := ($pages | intersect $notHidden) }}
     {{ $pag := .Paginate ($filtered) }}
+    {{ $frontpage := .Site.GetPage "post/frontpage" }}
 
-    <section class="article-list">
-        {{ range $index, $element := $pag.Pages }}
-            {{ partial "article-list/default" . }}
-        {{ end }}
+    <section class="article-page">
+        {{ partial "article/article.html" $frontpage }}
     </section>
 
     {{- partial "pagination.html" . -}}
