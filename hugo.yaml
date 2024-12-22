@@ -26,7 +26,7 @@ params:
         avatar:
             enabled: false
         emoji: 🍥
-        subtitle:
+        subtitle: Anteckning från en vanlig pappa
 
     article:
         math: false
