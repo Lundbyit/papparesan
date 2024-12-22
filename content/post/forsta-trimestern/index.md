@@ -30,6 +30,7 @@ Det finns många sätt att följa fostrets utveckling vecka för vecka. Vi tyckt
  - (One Million Babies)[https://www.onemillionbabies.se/]
 
 Om du tycker om att ha lite mer detaljerad information och uppdateringar kan apparna vara ett kul sätt att följa med i vad som händer i magen.
+Jag använde inte appen då, men [Knodd](https://www.knodd.se/) har varit väldigt bra efter det att jag skaffade den. Det gjorde jag när vårt barn var två månader
 
 ## Gravidförsäkring
 En gravidförsäkring är kanske inget du tänkt på direkt, men det kan vara bra att överväga. Många försäkringsbolag erbjuder en gratis grundförsäkring under graviditeten. Dessutom kan det underlätta att få en barnförsäkring hos samma bolag senare, även om vi själva inte upplevde några problem med detta.
