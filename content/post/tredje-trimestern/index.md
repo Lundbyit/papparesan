@@ -1,6 +1,6 @@
 +++
 date = '2024-12-23T19:43:18+01:00'
-draft = true
+draft = false
 title = 'Tredje trimestern'
 +++
 
@@ -14,18 +14,9 @@ Nu kan det vara bra att uppdatera informationen hos försäkringskassan. Det är
  - Kontaktuppgifter
 
 # Fundera kring föräldrarledighet
-Det kan vara bra att börja fundera på hur du vill lägga upp din föräldrarledighet. Vi som bor i Sverige har det ganska bra och mycket är väldigt flexibelt.
+Det kan vara bra att börja fundera på hur du vill lägga upp din föräldrarledighet (Du kan läsa mer här [föräldrarledighet]({{ ref "/post/foraldrarledighet}})). Vi som bor i Sverige har det ganska bra och mycket är väldigt flexibelt.
 
 
-Kan även börja lägga in ledighet
-
-Ingen stress med ovanstående, men planera in att göra det.
-
-Planera föräldrarledighet https://www.forsakringskassan.se/wps/myportal/privatpers/tjanster/planerafp
-
-Man ska helst meddela arbetsgivaren 2 månader i förväg att man ska iväg på föräldrarledighet.
-
-En del rekommenderar att man är hemma tillsammans första månaden
 Fler och tätare barnmorskebesök
 Mannen behöver inte alltid följa med. Man kollar hälsan på fostret och mamman.
 Beställ barnvagn
