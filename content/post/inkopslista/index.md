@@ -6,7 +6,7 @@ title = 'Inköpslista'
 
 Det finns grejer man behöver köpa många saker som är bra att ha. Här är två listor som jag tycker är saker man borde ha och saker som är bra att ha. Som jag nämnt tidigare baserar jag detta på tips av andra och vad vi har använt oss mest utav.
 
-# Borde ha
+## Borde ha
  - **Barnvagn** - Det kan vara svårt att förlytta sig om man inte har en. Även ett utmärkt ställe att söva barnet i. Kolla gärna efter en vagn med avtagbart liggdel.
  <!--Lägga till egen sida om barnvagnar?-->
  - **Bärsele/Bärsjal** - Underlättar vardagen extremt mycket. Ibland är det klumpigt att ta med sig barnvagn. Då kan det vara bra att ha ett sätt att bära med sig sitt barn samtidigt som man har händerna fria. Bra att ha med sig även om man har med sig barnvagn.
@@ -19,7 +19,7 @@ Det finns grejer man behöver köpa många saker som är bra att ha. Här är tv
  - **Babyskydd** - Inget måste om man planerar att inte åka bil under spädbarnets första 6 månader. Detta är inget man måste köpa, utan man kan även hyra.
  - **Skötbord/Skötbädd** - Mycket smidigt när man ska byta blöja på barnet. Gärna en som är vattenavvisande
 
-# Bra att ha
+## Bra att ha
  - **Rektaltermometer** - Mest precisa när man ska mäta ett spädbarns kroppstemperatur
  - **Snorsug** - Underlättar enormt mycket om barnet blir snoriga
  - **Pysventil** - Om ni har gått igenom checklistan och barnet ändå skriker och är missnöjt kan det bero på att hen har luft i magen. Då är detta en livräddare

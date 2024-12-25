@@ -12,11 +12,11 @@ Vi diskuterade föräldrarledigheten av och till från det att vi visste att vi 
 
 Det är förstås väldigt svårt att veta hur det kommer att bli så du får utgå ifrån dig själv och även samtala med din partner om det är möjligt.
 
-# Viktigt att veta om föräldraledighet
-## Informera arbetsgivaren
+## Viktigt att veta om föräldraledighet
+### Informera arbetsgivaren
 Glöm inte att meddela din arbetsgivare minst två månader i förväg att du planerar att ta föräldraledigt.
 
-## 10 dagar för den icke-födande föräldern
+### 10 dagar för den icke-födande föräldern
 Den icke-födande föräldern har rätt till 10 dagar med ersättning direkt efter barnets födelse. Det är en rättighet jag verkligen tycker att du ska utnyttja. Här är några saker att tänka på:
 
  - Tidsramar: Du måste plocka ut dagarna inom 60 dagar från det att ni kommit hem efter förlossningen.
@@ -26,7 +26,7 @@ Den icke-födande föräldern har rätt till 10 dagar med ersättning direkt eft
 
 Du kan välja att ta ut dina 10 dagar som vardagar, vilket innebär att du får två hela veckor ledigt. Vissa väljer att räkna in helger också, men det är helt upp till dig.
 
-## Hemma tillsammans – en bra start?
+### Hemma tillsammans – en bra start?
 En del rekommenderar att båda föräldrarna är hemma tillsammans den första månaden. Det kan vara en trygghet, särskilt om man känner sig osäker på att vara ensam med barnet i början, speciellt om det är första barnet.
 
 Det gör också att båda får en förståelse över hur mycket tid ett spädbarn kan ta.
@@ -36,16 +36,16 @@ Vi valde inte den lösningen, men jag förstår varför många uppskattar det. D
 Själv bestämde jag mig för att jobba 80 % och vara ledig en dag i veckan. Det gav mig möjlighet att hjälpa till med praktiska saker som BVC-besök, läkarbesök och andra vardagsbestyr.
 
 
-# Planera ekonomin under föräldraledigheten
-## Kolla upp din ersättning
+## Planera ekonomin under föräldraledigheten
+### Kolla upp din ersättning
 
 Föräldrapenningen baseras på din sjukpenninggrundande inkomst (SGI). Om du vill förstå hur mycket du kan få i ersättning beroende på hur många dagar du tar ut per vecka, rekommenderar jag Försäkringskassans planeringsverktyg. Där kan du och din partner lägga in era dagar och få en tydlig bild av hur mycket ni får ut samt hur många dagar ni har kvar.
 
 Planera föräldrarledighet https://www.forsakringskassan.se/wps/myportal/privatpers/tjanster/planerafp
 
-## Föräldralön
+### Föräldralön
 
 Vissa arbetsgivare erbjuder föräldralön som ett extra tillägg till föräldrapenningen. Det kan vara värt att undersöka om din arbetsgivare har en sådan lösning – det kan göra stor skillnad för ekonomin under ledigheten.
 
-## Slutligen
+### Slutligen
 Den här perioden är en unik tid i livet, fylld av både utmaningar och glädje. Genom att planera i förväg och vara realistisk med vad du kan förvänta dig, kan du skapa en bra grund för att njuta av din föräldraledighet.
