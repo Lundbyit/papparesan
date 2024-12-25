@@ -3,6 +3,11 @@ languageCode: 'en-us'
 title: 'Papparesan'
 theme: 'hugo-theme-stack'
 
+sitemap:
+  changefreq: "weekly"
+  priority: 0.7
+  filename: "sitemap.xml"
+
 pagination:
     pagerSize: 3
 
@@ -45,7 +50,6 @@ params:
             - type: tag-cloud
               params:
                   limit: 10
-                  title: "Taggar"
         page:
             - type: toc
 
