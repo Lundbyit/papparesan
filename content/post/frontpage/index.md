@@ -23,5 +23,8 @@ Och om det inte räcker med allt man läser, så kommer ofta folk i din omgivnin
 Min ambition med den här sidan är att dela det jag har lärt mig – på ett enkelt, jordnära och praktiskt sätt. Jag hoppas att du hittar något här som känns användbart eller inspirerande för din resa som förälder!
 
 # Några ställen man kan börja på
+## Resan till att bli förälder i kronologisk ordning
+[Kronologisk ordning]({{< ref "/post/kronologisk>}})
+
 ## Filosofi
 [Grundfilosofi]({{< ref "/post/filosofi" >}})
