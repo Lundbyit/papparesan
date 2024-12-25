@@ -26,17 +26,20 @@ Vi kände att det var tryggt för oss att veta mer om fostrets hälsa, så vi va
 ## Följa fostrets utveckling
 Det finns många sätt att följa fostrets utveckling vecka för vecka. Vi tyckte att det var lagom att läsa på [1177 - Graviditet vecka för vecka](https://www.1177.se/Vastra-Gotaland/barn--gravid/graviditet/om-graviditeten/graviditeten-vecka-for-vecka/), men vi fick också tips om några appar som många verkar gilla:
 
- - (Baby journey)[https://babyjourney.se/]
- - (One Million Babies)[https://www.onemillionbabies.se/]
+ - [Baby journey](https://babyjourney.se/)
+ - [One Million Babies](https://www.onemillionbabies.se/)
 
 Om du tycker om att ha lite mer detaljerad information och uppdateringar kan apparna vara ett kul sätt att följa med i vad som händer i magen.
-Jag använde inte appen då, men [Knodd](https://www.knodd.se/) har varit väldigt bra efter det att jag skaffade den. Det gjorde jag när vårt barn var två månader
+Jag använde inte appen då, men [Knodd](https://www.knodd.se/) har varit väldigt bra efter det att jag skaffade den. Det gjorde jag när vårt barn var två månader.
 
 ## Gravidförsäkring
 En gravidförsäkring är kanske inget du tänkt på direkt, men det kan vara bra att överväga. Många försäkringsbolag erbjuder en gratis grundförsäkring under graviditeten. Dessutom kan det underlätta att få en barnförsäkring hos samma bolag senare, även om vi själva inte upplevde några problem med detta.
 
 Om du funderar på att betala för en gravidförsäkring kan det vara bra att veta att vissa experter menar att det oftast lönar sig. Jag hittade en bloggpost från [Småspararguiden](https://www.smaspararguiden.se/blogg/ja-du-bor-skaffa-en-gravidforsakring/) som tittat på statistik och resonerar kring varför en betalversion kan vara värd pengarna.
 
-Andra ställen man kan läsa på om gravidförsäkring:
+Andra ställen med information om gravidförsäkring:
  - https://soundcloud.com/forsakringspodden/9-gravidforsakring-behovs-det
  - https://www.konsumenternas.se/forsakringar/personforsakringar/gravidforsakringar/
+
+Nästa trimester:
+[Andra trimestern]({{< ref "/post/andra-trimestern" >}})

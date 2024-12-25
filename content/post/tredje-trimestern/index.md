@@ -111,3 +111,9 @@ Det är viktigt att ha en tydlig plan för hur ni ska ta er till sjukhuset när 
 Stödpersonen kan behöva fatta beslut när den födande inte orkar eller kan, så det är bra att veta vad som känns viktigt för er båda.
 
 Det viktigaste är att den födande ska känna sig trygg så att hon kan fokusera på värkarbetet och födandet.
+
+Förra trimestern:
+[Tredje trimestern]({{< ref "/post/tredje-trimestern" >}})
+
+Nästa post:
+Kommer

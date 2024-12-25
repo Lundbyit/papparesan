@@ -34,3 +34,9 @@ https://www.vgregion.se/halsa-och-vard/barnmorskemottagning/besok-hos-oss/foda-u
 
 # Börja köpa gravidkläder
 Kolla second-hand. Verkar bara vara H&M som har i butik annars behöver man beställa på nätet. Rekommenderat att testa i butiken så att man kan lämna tillbaka dem direkt om de inte passar.
+
+Förra trimestern:
+[Första trimestern]({{< ref "/post/forsta-trimestern" >}})
+
+Nästa trimester:
+[Tredje trimestern]({{< ref "/post/tredje-trimestern" >}})
