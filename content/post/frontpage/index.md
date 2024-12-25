@@ -24,7 +24,7 @@ Min ambition med den här sidan är att dela det jag har lärt mig – på ett e
 
 # Några ställen man kan börja på
 ## Resan till att bli förälder i kronologisk ordning
-[Kronologisk ordning]({{< ref "/post/kronologisk>}})
+[Kronologisk ordning]({{< ref "/post/kronologisk" >}})
 
 ## Filosofi
 [Grundfilosofi]({{< ref "/post/filosofi" >}})
