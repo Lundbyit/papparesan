@@ -3,11 +3,13 @@ date = '2024-12-29T19:43:18+01:00'
 draft = false
 title = 'Fjärde trimestern'
 tags = ["Kronologisk"]
-categories = ["Första tiden"]
+categories = ["Förstatiden"]
 +++
 
 # Nu är barnet här
 Äntligen är väntan över och den lilla krabaten har kommit till världen. Hoppas allt har gått bra och att alla är vid god hälsa. De första månaderna kallas ofta för "fjärde trimestern" – en period då både föräldrar och barn anpassar sig till det nya livet tillsammans.
+
+Mycket kommer att förändras den första tiden, och det kan vara både spännande och utmanande. Därför blir det här en ganska lång post, för jag vill gärna ge er en hel del tips och information som kan vara till hjälp under denna period.
 
 Den första tiden kan vara intensiv, och det är vanligt att många vill träffa den nyfödda. Var inte rädda för att säga nej om ni känner att ni behöver tid för er själva. Samtidigt kan det vara bra att våga be om hjälp om ni känner att det behövs – oavsett om det handlar om praktiska saker eller bara lite avlastning. För ensamföräldrar kan det vara extra viktigt att inte vara rädd för att be om stöd, så att ni får möjlighet att återhämta er och ta hand om både er själva och barnet.
 
@@ -41,7 +43,7 @@ Passa även på att ställa alla frågor ni kan komma på under tiden på BB –
 För er som planerar att amma har jag skrivit en separat post om [detta]({{< ref "/post/amning">}}). Amning rekommenderas ofta under barnets första sex månader, då det ger närhet och många hälsomässiga fördelar.
 Det råder delade meningar kring hur ofta man ska amma, men alla verkar överens om: Minst åtta gånger per dygn. Undvik att låta det gå för länge mellan amningstillfällena, eftersom barnet kan bli för trött för att orka suga.
 
-# Ta hand om den födande
+## Ta hand om den födande
 Några tips till dig som föder.
  - **Isbinda** - Det tyckte min fru var jättebra. Blöt bara ner en binda och stoppa in den i frysen.
  Xylocain för bedövning, alvedon och ipren funkar också. Kombinera. Purelan för ömma bröstvårtor Mjölkuppsamlare Viktigt att ta det lugnt efter graviditeten så att mamman läker bra. Bäcken, slida.
@@ -53,3 +55,36 @@ Efter förlossningen är det viktigt att fokusera på återhämtning och läknin
  - **Purelan**: Ett räddande hjälpmedel för ömma eller såriga bröstvårtor, särskilt under amningsstarten.
  - **Mjölkuppsamlare**: Kan vara till stor hjälp för att samla upp överflödig mjölk och undvika läckage.
  - **Ta det lugnt**: Kroppen behöver tid för att läka efter graviditeten och förlossningen. Ge bäcken, slidan och övriga områden som påverkats tid att återhämta sig. Överansträngning kan fördröja läkningsprocessen, så prioritera vila och avlastning.
+
+## Checklista när barnet skriker
+En liten enkel checklista som man kan ha om barnet skriker. Det är inte alltid detta fungerar, men det fungerar oftare än vad man tror
+ - **Hungrig**: Kolla om barnet är hungrigt. Det kan vara lätt att känna att man inte alltid vill ge bröstet direkt när barnet skriker, men ibland är det just det som behövs. Min fru kände sig ibland som en matfabrik, och det kan vara frustrerande när det känns som att det är det enda barnet vill. Men kom ihåg, det går över.
+ - **Blöja**: Om barnet inte är hungrigt, kan blöjan vara obekväm. Kolla om den behöver bytas.
+ - **Trött**: Är barnet trött? Försök hjälpa barnet att somna.
+ - **Magen**: Om inget av ovanstående verkar vara orsaken, kan barnet ha ont i magen. Testa att få barnet att rapa. En annan metod är att ge magmassage genom att trycka och massera medsols på barnets vänstra sida av magen. En sista utväg kan vara att testa en pysventil.
+
+## Några praktiska saker
+### Barnförsäkring
+När barnet har fått sitt personnummer kan ni ansöka om barnförsäkring. Vi valde att ta barnförsäkring där vi redan hade vår gravidförsäkring. Det kan vara bra att jämföra olika barnförsäkringar på [Konsumenterna](https://www.konsumenternas.se/konsumentstod/jamforelser/personforsakringar/jamfor-barnforsakringar/)
+
+### BVC
+Registrera er på en BVC så tidigt som möjligt. Ni kommer att ha många besök där i början, så det är bra att välja en som ligger nära och är lätt att ta sig till. På BVC får ni massor av råd och tips.
+
+Se till att ni kommer bra överens med er BVC-sköterska. Om ni inte gör det, tveka inte att byta både BVC och sköterska om ni känner att det inte fungerar.
+
+### MVC-samtal
+För den som föder är detta ett bra tillfälle att prata om förlossningen och de delar av upplevelsen som kanske inte riktigt känns bra eller som ni vill bearbeta. Diskutera även hur vardagen fungerar.
+
+### Vaccin
+Snart är det dags för barnets första vaccin. Vaccineringen är frivillig men starkt rekommenderad.
+
+Det är inte det roligaste att hålla sitt barn under tiden. Men personalen är väldigt professionell, och även om det gör ont i hjärtat på föräldern, är det viktigt för barnets hälsa.
+
+### Namn
+Nu är det också dags att registrera barnets namn hos Skatteverket. En blankett skickas hem till er – det är bara att fylla i den och posta den.
+
+### Ansöka om föräldrarpenning
+Nu kan det vara bra att ansöka om föräldrapenning. Ju tidigare desto bättre, så att ni inte står utan inkomst under ledigheten.
+
+### Hörselscreening
+Ni kommer att bli kallade till hörselscreening för barnet. Ibland kan posten komma bort, så hör gärna av er till förlossningsmottagningen om ni inte får något besked.

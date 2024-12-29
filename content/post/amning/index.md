@@ -1,9 +1,9 @@
 +++
-date = '2024-12-22T19:43:18+01:00'
+date = '2024-12-29T19:43:18+01:00'
 draft = false
 title = 'Amning'
 tags = ["Amning"]
-categories = ["Första tiden"]
+categories = ["Förstatiden"]
 +++
 
 # Amning
