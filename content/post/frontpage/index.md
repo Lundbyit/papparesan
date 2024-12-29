@@ -13,6 +13,8 @@ En sak jag verkligen vill skicka med är att vara noga med var du hämtar din in
 
 Här på sidan hittar du mina erfarenheter och tankar. Vissa tips har funkat superbra för oss, men det betyder inte att de passar alla. Så ta dig tid att kika runt och plocka det som känns rätt för just dig, det är bara att ignorera resten!
 
+Kom ihåg att dessa inte är medicinska råd utan åsikter och punkter som vi tyckte var relevanta för oss.
+
 Om du vill veta lite mer om varför jag startade den här sidan kan du läsa vidare här nedan. Eller hoppa direkt till [Några ställen att börja på](#några-ställen-man-kan-börja-på)
 
 # Om sidan
