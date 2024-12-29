@@ -3,7 +3,7 @@ date = '2024-12-23T19:43:18+01:00'
 draft = false
 title = 'Tredje trimestern'
 tags = ["Kronologisk"]
-categories = ["Kronologisk"]
+categories = ["Graviditet"]
 +++
 
 # Snart är det dags – Förberedelser inför barnets ankomst

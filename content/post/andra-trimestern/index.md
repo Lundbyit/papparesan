@@ -3,7 +3,7 @@ date = '2024-12-22T19:43:18+01:00'
 draft = false
 title = 'Andra trimestern'
 tags = ["Kronologisk"]
-categories = ["Kronologisk"]
+categories = ["Graviditet"]
 +++
 
 # Andra trimestern - en ny fas
