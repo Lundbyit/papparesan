@@ -23,6 +23,11 @@ jobs:
         run: echo "ORYX_DEBUG=true" >> $GITHUB_ENV
       - name: Print environment variables
         run: printenv
+      - name: Install Hugo
+        run: |
+          sudo apt-get install hugo
+      - name: Build Site with Hugo
+        run: hugo --verbose
       - name: Build And Deploy
         id: builddeploy
         uses: Azure/static-web-apps-deploy@v1
