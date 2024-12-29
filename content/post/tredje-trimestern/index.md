@@ -119,4 +119,4 @@ Förra trimestern:
 [Tredje trimestern]({{< ref "/post/andra-trimestern" >}})
 
 Nästa post:
-[Fjärde trimestern]({{< ref "/post/fjarde-trimestern" >}})
+[Fjarde trimestern]({{< ref "/post/fjarde-trimestern" >}})
