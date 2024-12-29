@@ -28,3 +28,6 @@ Min ambition med den här sidan är att dela det jag har lärt mig – på ett e
 
 ## Filosofi
 [Grundfilosofi]({{< ref "/post/filosofi" >}})
+
+## Graviditet
+[Allmän information]({{< ref "/post/graviditet" >}})
