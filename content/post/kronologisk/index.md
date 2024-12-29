@@ -10,4 +10,3 @@ Om du vill läsa posterna i rätt ordning och ta in informationen steg för steg
 1. [Första trimestern]({{< ref "/post/forsta-trimestern" >}})
 2. [Andra trimestern]({{< ref "/post/andra-trimestern" >}})
 3. [Tredje trimestern]({{< ref "/post/tredje-trimestern" >}})
-<!-- 4. [Fjärde trimestern]({{< ref "/post/fjarde-trimestern" >}}) -->
