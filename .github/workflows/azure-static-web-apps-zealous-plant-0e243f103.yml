@@ -23,6 +23,8 @@ jobs:
         run: echo "ORYX_DEBUG=true" >> $GITHUB_ENV
       - name: Print environment variables
         run: printenv
+      - name: List files in the directory
+        run: ls -la
       - name: Install Hugo
         run: |
           sudo apt-get install hugo
