@@ -29,10 +29,12 @@ Det är kanske inte akut, men nu kan det vara ett bra tillfälle att uppdatera d
 ## Fundera kring föräldrarledighet
 Det kan vara klokt att börja fundera på hur du vill lägga upp din [föräldraledighet]({{ ref "/post/foraldrarledighet}}). I Sverige har vi generellt sett bra och flexibla möjligheter för föräldraledighet, vilket gör att du kan anpassa den efter dina behov.
 
+Man kan redan nu ansöka om föräldrarledighet och korrigera i efterhand.
+
 ## Beställ barnvagn
 Kanske dags att beställa barnvagnen om du vill ha en helt ny. Tänk på att det kan vara en viss leveranstid, så det kan vara bra att vara ute i god tid. De mest populära märkena är Britax, Bugaboo och Emmaljunga – men de kan vara ganska dyra. Tänk också på att det går att hitta bra begagnade alternativ, som ofta kan vara i nästan nyskick.
 
-## Babyskydd - Flytta till fjärde trimestern
+## Babyskydd
 Om ni planerar att åka bil med barnet under de första sex månaderna är ett babyskydd ett måste.
 Tips för att välja babyskydd:
 

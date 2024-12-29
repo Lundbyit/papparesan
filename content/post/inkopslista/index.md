@@ -25,3 +25,4 @@ Det finns grejer man behöver köpa många saker som är bra att ha. Här är tv
  - **Pysventil** - Om ni har gått igenom checklistan och barnet ändå skriker och är missnöjt kan det bero på att hen har luft i magen. Då är detta en livräddare
  - **Blöjhink** - I början luktar inte blöjorna så mycket, men de luktar mer ju äldre de blir. Så om man inte vill springa till soprummet stup i kvarten kan det vara smidigt med blöjhink.
  - **Zinksalva** - Förr i tiden använde man babypowder, men det som är rekommenderat nu är zinksalva.
+ - **Koksaltslösning** - Om barnet är täppt i näsan
