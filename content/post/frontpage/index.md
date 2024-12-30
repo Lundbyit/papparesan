@@ -39,3 +39,8 @@ De källor vi har blivit rekommenderade är:
 
 ## Graviditet
 [Allmän information]({{< ref "/post/graviditet" >}})
+
+## Kronologisk ordning
+[Första trimestern 0-3 månader]({{< ref "/post/filosofi" >}})
+[Andra trimestern 3-6 månader]({{< ref "/post/filosofi" >}})
+[Trejde trimestern 6-9 månader]({{< ref "/post/filosofi" >}})
