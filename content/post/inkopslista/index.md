@@ -2,9 +2,11 @@
 date = '2024-12-23T19:43:18+01:00'
 draft = false
 title = 'Inköpslista'
+tags = ["införskaffa"]
+categories = ["Första Tiden"]
 +++
 
-Det finns grejer man behöver köpa många saker som är bra att ha. Här är två listor som jag tycker är saker man borde ha och saker som är bra att ha. Som jag nämnt tidigare baserar jag detta på tips av andra och vad vi har använt oss mest utav.
+Det finns grejer man behöver och saker som är bra att ha. Här är två listor som jag tycker är saker man borde ha och saker som är bra att ha. Som jag nämnt tidigare baserar jag detta på tips av andra och vad vi har använt oss mest utav.
 
 ## Borde ha
  - **Barnvagn** - Det kan vara svårt att förlytta sig om man inte har en. Även ett utmärkt ställe att söva barnet i. Kolla gärna efter en vagn med avtagbart liggdel.
@@ -24,5 +26,5 @@ Det finns grejer man behöver köpa många saker som är bra att ha. Här är tv
  - **Snorsug** - Underlättar enormt mycket om barnet blir snoriga
  - **Pysventil** - Om ni har gått igenom checklistan och barnet ändå skriker och är missnöjt kan det bero på att hen har luft i magen. Då är detta en livräddare
  - **Blöjhink** - I början luktar inte blöjorna så mycket, men de luktar mer ju äldre de blir. Så om man inte vill springa till soprummet stup i kvarten kan det vara smidigt med blöjhink.
- - **Zinksalva** - Förr i tiden använde man babypowder, men det som är rekommenderat nu är zinksalva.
+ - **Zinksalva** - Förr i tiden använde man babypowder, men det som är rekommenderat nu är zinksalva. Den vi använder heter Inotyol.
  - **Koksaltslösning** - Om barnet är täppt i näsan

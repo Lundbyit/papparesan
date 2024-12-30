@@ -27,9 +27,9 @@ Det är kanske inte akut, men nu kan det vara ett bra tillfälle att uppdatera d
  - Kontaktuppgifter
 
 ## Fundera kring föräldrarledighet
-Det kan vara klokt att börja fundera på hur du vill lägga upp din [föräldraledighet]({{ ref "/post/foraldrarledighet}}). I Sverige har vi generellt sett bra och flexibla möjligheter för föräldraledighet, vilket gör att du kan anpassa den efter dina behov.
+Det kan vara en god idé att redan nu börja fundera på hur du vill lägga upp din [föräldraledighet]({{ ref "/post/foraldrarledighet" }}). I Sverige har vi generellt sett mycket flexibla möjligheter för föräldraledighet, vilket gör det enkelt att anpassa planeringen efter dina behov.
 
-Man kan redan nu ansöka om föräldrarledighet och korrigera i efterhand.
+När ni har gjort en plan kan det vara smart att ansöka om föräldraledighet i god tid. På så sätt blir det en sak mindre att tänka på längre fram. Även om du inte vet exakt när barnet kommer, är det enkelt att justera ansökan i efterhand om det skulle behövas.
 
 ## Beställ barnvagn
 Kanske dags att beställa barnvagnen om du vill ha en helt ny. Tänk på att det kan vara en viss leveranstid, så det kan vara bra att vara ute i god tid. De mest populära märkena är Britax, Bugaboo och Emmaljunga – men de kan vara ganska dyra. Tänk också på att det går att hitta bra begagnade alternativ, som ofta kan vara i nästan nyskick.
@@ -118,7 +118,7 @@ Stödpersonen kan behöva fatta beslut när den födande inte orkar eller kan, s
 Det viktigaste är att den födande ska känna sig trygg så att hon kan fokusera på värkarbetet och födandet.
 
 Förra trimestern:
-[Tredje trimestern]({{< ref "/post/andra-trimestern" >}})
+[Andra trimestern]({{< ref "/post/andra-trimestern" >}})
 
 Nästa post:
-kommer
+[Fjärde trimestern]({{< ref "/post/fjarde-trimestern" >}})

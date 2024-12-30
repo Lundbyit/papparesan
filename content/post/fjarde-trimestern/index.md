@@ -3,7 +3,7 @@ date = '2024-12-29T19:43:18+01:00'
 draft = false
 title = 'Fjärde trimestern'
 tags = ["Kronologisk"]
-categories = ["Förstatiden"]
+categories = ["Första Tiden"]
 +++
 
 # Nu är barnet här
@@ -22,7 +22,7 @@ Den första tiden kan vara intensiv, och det är vanligt att många vill träffa
  - **Rapning vid matning**: Barnet kan behöva rapa efter att den har ätit. Hen behöver inte alltid rapa efter matning men oftast efter koppmatning. Hjälp barnet att rapa genom att lägga hen på axeln och försiktigt klappa på ryggen eller rumpan.
  - **Bada barnet**: Vänta med att bada barnet tills det har gått minst en vecka. Om rengöring behövs tidigare, använd en ljummen tvättlapp. Undvik att bada för ofta, eftersom det kan torka ut barnets hud. Rekommendationen är att bada högst en gång i veckan.
  - **Lär känna barnet**: Det tar tid att lära känna barnet, precis som vilken ny relation som helst. Ha tålamod, sänk kraven och fokusera på att bara vara i stunden.
- - **Loggbok**: Under den första tiden kan det vara hjälpsamt att föra en loggbok över när barnet äter och bajsar. Det kan vara svårt att minnas detaljer när man är trött, och en enkel logg kan hjälpa er att hålla koll på att barnet får i sig tillräckligt med mat och att magen fungerar som den ska.
+ - **Loggbok**: Under den första tiden kan det vara hjälpsamt att föra en loggbok över när barnet äter och bajsar. Det kan vara svårt att minnas när man är trött, och en enkel logg kan hjälpa er att hålla koll på att barnet får i sig tillräckligt med mat och att magen fungerar som den ska.
  - **Navelsträngen**: Den åker av av sig själv efter en tid. Tvätta vid behov med en blöt tops för att få bort var och blod.
 
 ## Praktiska tips för den första tiden
@@ -45,7 +45,6 @@ Det råder delade meningar kring hur ofta man ska amma, men alla verkar överens
 
 ## Ta hand om den födande
 Efter förlossningen är det viktigt att fokusera på återhämtning och läkning. Här är några tips och råd för att underlätta:
-
  - **Isbinda**: Ett enkelt och effektivt sätt att lindra svullnad och smärta. Använd en blomspruta och spraya en binda med vatten och lägg den sedan i frysen.
  - **Smärtlindring**: Kombinera Xylocain för lokalbedövning med Alvedon och Ipren för att hantera smärta. Följ doseringsråden och rådgör gärna med vården om du är osäker.
  - **Purelan**: Ett räddande hjälpmedel för ömma eller såriga bröstvårtor, särskilt under amningsstarten.
@@ -58,7 +57,7 @@ En liten enkel checklista som man kan ha om barnet skriker. Det är inte alltid 
  - **Hungrig**: Kolla om barnet är hungrigt. Det kan vara lätt att känna att man inte alltid vill ge bröstet direkt när barnet skriker, men ibland är det just det som behövs. Min fru kände sig ibland som en matfabrik, och det kan vara frustrerande när det känns som att det är det enda barnet vill. Men kom ihåg, det går över.
  - **Blöja**: Om barnet inte är hungrigt, kan blöjan vara obekväm. Kolla om den behöver bytas.
  - **Trött**: Är barnet trött? Försök hjälpa barnet att somna.
- - **Magen**: Om inget av ovanstående verkar vara orsaken, kan barnet ha ont i magen. Testa att få barnet att rapa. En annan metod är att ge magmassage genom att trycka och massera medsols på barnets vänstra sida av magen. En sista utväg kan vara att testa en pysventil. (Knodd har en spädbarnsmassage tips)
+ - **Magen**: Om inget av ovanstående verkar vara orsaken, kan barnet ha ont i magen. Testa att få barnet att rapa. En annan metod är att ge magmassage genom att trycka och massera medsols på barnets vänstra sida av magen. En sista utväg kan vara att testa en pysventil. (Knodd har väldigt bra spädbarnsmassage tips)
 
 ## Några praktiska saker
 ### Barnförsäkring
@@ -82,7 +81,7 @@ Det är inte det roligaste att hålla sitt barn under tiden. Men personalen är 
 Nu är det också dags att registrera barnets namn hos Skatteverket. En blankett skickas hem till er – det är bara att fylla i den och posta den.
 
 ### Ansöka om föräldrarpenning
-Nu kan det vara bra att ansöka om föräldrapenning om du inte redan har gjort det. Skönt om det redan är gjort. Då kanske bara justeringar göras. Ju tidigare desto bättre, så att ni inte står utan inkomst under ledigheten.
+Nu kan det vara bra att ansöka om föräldrapenning om du inte redan har gjort det. Skönt om det redan är gjort. Då kanske bara justeringar behövs. Ju tidigare desto bättre, så att ni inte står utan inkomst under ledigheten.
 
 ### Hörselscreening
 Ni kommer att bli kallade till hörselscreening för barnet. Ibland kan posten komma bort, så hör gärna av er till förlossningsmottagningen eller kolla 1177 om ni inte får något besked.

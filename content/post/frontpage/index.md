@@ -26,8 +26,11 @@ Min ambition med den här sidan är att dela det jag har lärt mig – på ett e
 
 # Trovärdiga källor
 De källor vi har blivit rekommenderade är:
+
 [1177](https://www.1177.se/Vastra-Gotaland/barn--gravid/graviditet/)
+
 [Knodd](https://www.knodd.se/)
+
 [Rikshandboken](https://www.rikshandboken-bhv.se/)
 
 # Några ställen man kan börja på
@@ -41,6 +44,7 @@ De källor vi har blivit rekommenderade är:
 [Allmän information]({{< ref "/post/graviditet" >}})
 
 ## Kronologisk ordning
-[Första trimestern 0-3 månader]({{< ref "/post/filosofi" >}})
-[Andra trimestern 3-6 månader]({{< ref "/post/filosofi" >}})
-[Trejde trimestern 6-9 månader]({{< ref "/post/filosofi" >}})
+[Första trimestern - foster 0-3 månader]({{< ref "/post/forsta-trimestern" >}})
+[Andra trimestern - foster 3-6 månader]({{< ref "/post/andra-trimestern" >}})
+[Tredje trimestern - foster 6-9 månader]({{< ref "/post/tredje-trimestern" >}})
+[Fjärde trimestern - barn 0-3 månader]({{< ref "/post/fjarde-trimestern" >}})
