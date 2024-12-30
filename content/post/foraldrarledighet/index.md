@@ -12,7 +12,7 @@ Vi började diskutera föräldraledigheten redan när vi fick veta att vi skulle
 
 Det är förstås svårt att veta exakt hur det kommer att bli, så det är viktigt att utgå från sin egen situation och prata ihop sig med sin partner (om det är aktuellt). Här delar jag med mig av några tankar och tips. För mer detaljer och regler rekommenderar jag att ni besöker [försäkringskassan](https://www.forsakringskassan.se/privatperson/foralder/foraldrapenning).
 
-Om du vill läsa mer om föräldrapenning och våra tankar har jag även skrivit en separat post som du hittar [här]({{< ref "/post/foraldrarpenning" >}}).
+Jag har också skrivit en sammanfattning om föräldrapenning [här]({{< ref "/post/foraldrarpenning" >}}).
 
 ## Hur föräldraledighet fungerar
 Föräldraledighet baseras på dagar som du själv fördelar. Du kan ta ut allt från kvartsdagar till heldagar, och välja att ta ut 1 dag i veckan eller upp till 7 dagar.
@@ -41,12 +41,21 @@ Meddela din arbetsgivare minst två månader i förväg om att du planerar att t
 ### 10 dagar för den icke-födande föräldern
 Den icke-födande föräldern har rätt till 10 dagar med ersättning direkt efter barnets födelse. Det är en rättighet jag verkligen tycker att du ska utnyttja. Här är några saker att tänka på:
 
- - Tidsramar: Du måste plocka ut dagarna inom 60 dagar från det att ni kommit hem efter förlossningen.
- - Ansökan: Ansökan till Försäkringskassan måste skickas in senast 90 dagar efter att du tar ut din första dag.
+ - Tidsramar: Du måste plocka ut dagarna inom **60 dagar** från det att ni kommit hem efter förlossningen.
+ - Ansökan: Ansökan till Försäkringskassan måste skickas in senast **90 dagar** efter att du tar ut din första dag.
 
-[Läs mer här](https://www.forsakringskassan.se/privatperson/foralder/10-dagar-vid-barns-fodelse)
+[Läs mer hos försäkringskassan](https://www.forsakringskassan.se/privatperson/foralder/10-dagar-vid-barns-fodelse)
 
 Du kan välja att ta ut dagarna som vardagar (två hela veckor) eller inkludera helger, beroende på vad som passar bäst för er.
+
+### Föräldraledighet och pension
+Att ta ut föräldraledighet kan påverka din pension, vilket kanske inte alltid är något man tänker på i förväg. Här är några saker att ha i åtanke:
+
+ - **Allmän pension**: Du fortsätter att få avsättningar till den allmänna pensionen under föräldradagarna, så där påverkas du inte negativt.
+ - **Tjänstepension**: Detta varierar beroende på din arbetsgivare och vilket avtal du har. Vissa arbetsgivare fortsätter att betala in till din tjänstepension under föräldraledigheten, medan andra inte gör det. Det är därför viktigt att kolla upp hur det ser ut för just dig med ditt företag.
+ - **Deltidsarbete**: Den största påverkan på pensionen sker om du går ner i arbetstid och arbetar deltid under en längre period. Mindre inkomst innebär lägre pensionsavsättningar både till allmän pension och eventuell tjänstepension.
+
+För att läsa mer och få en djupare förståelse kan du besöka [Pensionsmyndighetens sida om småbarnstiden och pension](https://www.pensionsmyndigheten.se/forsta-din-pension/vad-paverkar-din-pension/smabarnstiden-kan-paverka-din-pension).
 
 ## Hemma tillsammans – en bra start?
 En del rekommenderar att båda föräldrarna är hemma den första månaden. Det kan vara en trygghet, särskilt om ni känner er osäkra på att vara ensamma med barnet i början. Det är en period fylld av frågor som:
@@ -66,5 +75,51 @@ Föräldrapenningen baseras på din SGI. För att förstå hur mycket du kan få
 ### Föräldralön
 Vissa arbetsgivare erbjuder föräldralön som ett extra tillägg till föräldrapenningen. Det är värt att undersöka om din arbetsgivare har en sådan lösning, eftersom det kan ge en stor ekonomisk fördel under ledigheten.
 
-### Slutligen
-Föräldraledigheten är en unik och värdefull tid i livet. Genom att planera i förväg och vara realistisk med dina förväntningar kan du skapa en stabil grund för att njuta av den här perioden fullt ut. Se det som en chans att skapa fina minnen och ge både dig själv och barnet en trygg start i livet.
+## Egna tankar
+När vi planerade vår föräldraledighet hade vi som mål att dela så lika som möjligt mellan oss, förutsatt att det gick ihop ekonomiskt. Vi ville inte heller använda upp alla föräldradagar det första året, utan ville spara några dagar till senare. För att undvika att dagar brinner inne innan barnet fyller fyra år kan man till exempel börja ta ut dagar på helger.
+
+### Strategi för uttag av föräldradagar
+ - **Delvis uttag**: Vi bestämde oss för att ta ut 3–4 dagar per vecka under föräldraledigheten. Det gav oss en viss ersättning samtidigt som vi sparade dagar för framtiden.
+ - **Tänk på framtiden**: Att spara föräldradagar ger flexibilitet för längre ledighet senare, t.ex. under skollov eller för att förlänga semestern.
+
+### Ekonomi och rättvisa
+En viktig diskussion handlade om hur vi skulle få det ekonomiskt rättvist, eftersom den som är mer föräldraledig oftast får lägre inkomst. Detta är särskilt viktigt om man inte har delad ekonomi.
+
+ - **Föräldraledighet är inte "ledig"**: Att vara föräldraledig innebär ansvar och arbete, inte en semester. Därför är det viktigt att båda föräldrarna bidrar ekonomiskt så rättvist som möjligt.
+ - **Vår lösning**: Vi diskuterade och enades om en modell för att dela på inkomster och utgifter.
+
+### Vår modell för rättvis ekonomi
+För att undvika orättvisor gjorde vi så här:
+
+1. **Beräkning av fasta utgifter och matkostnader:**
+Vi räknade ihop alla fasta utgifter (exempelvis hyra, el, försäkringar) samt matkostnader per månad.
+
+2. **Sammanställning av inkomster:**
+Vi summerade en persons nettolön (efter skatt) och den andras ersättning från föräldrapenningen.
+
+3. **Delning av överskottet:**
+Efter att ha dragit av alla fasta utgifter delade vi det som fanns kvar 50/50, så att båda hade lika mycket pengar att röra sig med.
+
+Exempel:
+
+**Totala utgifter**: 15 000 kr/månad
+
+**Nettolön för en**: 17 000 kr/månad
+
+**Ersättning från föräldrapenning**: 8 000 kr/månad
+
+**Totala inkomster**: 25 000 kr/månad
+
+Efter att ha dragit av 15 000 kr för fasta utgifter hade vi 10 000 kr kvar. Vi delade dessa 10 000 kr lika, så att vi fick 5 000 kr var att använda fritt.
+
+### Vardagen och flexibilitet
+
+Utöver ekonomin planerade vi för att få ihop vardagen på ett bra sätt. Vi såg till att våra fasta utgifter var täckta, men också att vi hade pengar över för att spara eller göra roliga saker som familj. Det gav oss en stabil och flexibel grund för en tid som både är spännande och utmanande.
+
+## Slutligen
+
+Det viktigaste är att ni hittar en lösning som fungerar för just er – både när det gäller föräldraledighet och ekonomi. Genom att ha en öppen dialog och planera i förväg kan ni skapa förutsättningar för att denna unika period ska bli så bra som möjligt.
+
+Föräldraledigheten är en värdefull och unik tid i livet, fylld av möjligheter att bygga minnen och ge både er själva och barnet en trygg start. Genom att vara realistisk med era förväntningar och planera för både praktiska och ekonomiska aspekter, kan ni skapa en stabil grund för att njuta av den här perioden fullt ut.
+
+Se det som en chans att fokusera på familjen och skapa fina minnen som varar livet ut.
