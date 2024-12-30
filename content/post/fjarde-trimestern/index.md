@@ -59,6 +59,11 @@ En liten enkel checklista som man kan ha om barnet skriker. Det är inte alltid 
  - **Trött**: Är barnet trött? Försök hjälpa barnet att somna.
  - **Magen**: Om inget av ovanstående verkar vara orsaken, kan barnet ha ont i magen. Testa att få barnet att rapa. En annan metod är att ge magmassage genom att trycka och massera medsols på barnets vänstra sida av magen. En sista utväg kan vara att testa en pysventil. (Knodd har väldigt bra spädbarnsmassage tips)
 
+## Ligga på rygg, vaken på mage
+När barnet är ungefär tre veckor gammalt kan ni börja träna barnets nacke mer aktivt genom att låta hen ligga på mage korta stunder när hen är vaken. I början orkar barnet kanske bara några sekunder, men det är helt normalt. Öka tiden successivt allteftersom barnet blir starkare.
+
+Det kan hända att barnet blir frustrerat och skriker under dessa stunder. Men kom ihåg att lite frustration ofta är en bra drivkraft för utveckling – ge barnet tid och uppmuntran så blir det lättare med tiden.
+
 ## Några praktiska saker
 ### Barnförsäkring
 När barnet har fått sitt personnummer kan ni ansöka om barnförsäkring. Vi valde att ta barnförsäkring där vi redan hade vår gravidförsäkring. Det kan vara bra att jämföra olika barnförsäkringar på [Konsumenterna](https://www.konsumenternas.se/konsumentstod/jamforelser/personforsakringar/jamfor-barnforsakringar/)
