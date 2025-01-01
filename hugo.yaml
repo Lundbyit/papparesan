@@ -1,7 +1,9 @@
 baseURL: https://zealous-plant-0e243f103.4.azurestaticapps.net/
-languageCode: 'en-us'
+languageCode: sv-se
 title: 'Papparesan'
 theme: 'hugo-theme-stack'
+
+DefaultContentLanguage: sv
 
 sitemap:
   changefreq: "weekly"
@@ -20,7 +22,7 @@ params:
         - post
 
     footer:
-        since: 2020
+        since: 2025
         customText:
 
     dateFormat:

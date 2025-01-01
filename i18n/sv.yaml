@@ -1,0 +1,73 @@
+toggleMenu:
+    other: Växla Meny
+
+darkMode:
+    other: Dark Mode
+
+list:
+    page:
+        one: "{{ .Count }} sida"
+        other: "{{ .Count }} sidor"
+
+    section:
+        other: Sektion
+
+    subsection:
+        one: Undersektion
+        other: Undersektioner
+
+article:
+    back:
+        other: Tillbaka
+
+    tableOfContents:
+        other: Innehållsförteckning
+
+    relatedContent:
+        other: Relaterat innehåll
+
+    lastUpdatedOn:
+        other: Senast uppdaterad
+
+    readingTime:
+        one: "{{ .Count }} minuts läsning"
+        other: "{{ .Count }} minuters läsning"
+
+notFound:
+    title:
+        other: Hittades inte
+
+    subtitle:
+        other: Denna sida finns inte
+
+widget:
+    archives:
+        title:
+            other: Arkiv
+
+        more:
+            other: Mer
+
+    tagCloud:
+        title:
+            other: taggar
+    categoriesCloud:
+        title:
+            other: Kategorier
+
+search:
+    title:
+        other: Sök
+
+    placeholder:
+        other: Skriv något...
+
+    resultTitle:
+        other: "#PAGES_COUNT sidor (#TIME_SECONDS sekunder)"
+
+footer:
+    builtWith:
+        other: Byggt med {{ .Generator }}
+
+    designedBy:
+        other: Theme {{ .Theme }} designed by {{ .DesignedBy }}

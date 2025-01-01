@@ -43,11 +43,7 @@ De källor vi har blivit rekommenderade är:
 ## Graviditet
 [Allmän information]({{< ref "/post/graviditet" >}})
 
-## Kronologisk ordning
-[Första trimestern - foster 0-3 månader]({{< ref "/post/forsta-trimestern" >}})
+## Föräldraledighet
+[Föräldraledighet]({{< ref "/post/foraldrarledighet" >}})
 
-[Andra trimestern - foster 3-6 månader]({{< ref "/post/andra-trimestern" >}})
-
-[Tredje trimestern - foster 6-9 månader]({{< ref "/post/tredje-trimestern" >}})
-
-[Fjärde trimestern - barn 0-3 månader]({{< ref "/post/fjarde-trimestern" >}})
+[Föräldrapenning]({{< ref "/post/foraldrarpenning" >}})
