@@ -30,3 +30,8 @@ Som föräldrar har vi en önskan att uppfostra våra barn till att bli "perfekt
  - **Föräldrarnas påverkan**: Du kanske inte kan påverka deras personlighet så mycket som du tror. De formas även av andra faktorer utanför ditt kontrollområde.
  - **Acceptans**: Det är möjligt att dina barn inte blir exakt som du hade tänkt dig, och det är okej.
  - **Kärlek är det viktigaste**: Det viktigaste är att ditt barn känner sig älskat och accepterat för den de är.
+
+ <!-- Växa med ansvar -->
+ <!-- Vara närvaranade -->
+ <!-- Lära barnet om känslor -->
+ <!-- Fokusera på en sak i taget -->
