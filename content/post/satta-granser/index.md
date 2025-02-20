@@ -7,6 +7,7 @@ categories = ["Barnuppfostran"]
 +++
 
 <!-- Lägg till disclaimer att det är mina åsikter? -->
+<!-- kolla varför denna sidan inte visas -->
 # Vikten av att sätta gränser
 Jag tycker att vi som föräldrar har vi ett ansvar att sätta gränser för våra barn. Det handlar inte om att bara skapa regler för reglernas skull, utan om att hjälpa barnet att förstå vad som förväntas av dem och vilka konsekvenser deras handlingar kan få. På så sätt förenklar vi världen för barnet. Världen vi lever i är komplex, och genom att sätta gränser kan vi anpassa svårighetsnivån så att barnet lättare kan navigera i den.
 
