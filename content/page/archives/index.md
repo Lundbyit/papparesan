@@ -1,6 +1,6 @@
 ---
-title: "Arkiv"
-date: 2019-05-28
+title: "Artiklar"
+date: '2025-02-20'
 layout: "archives"
 slug: "archives"
 menu:

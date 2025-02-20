@@ -47,3 +47,10 @@ De källor vi har blivit rekommenderade är:
 [Föräldraledighet]({{< ref "/post/foraldrarledighet" >}})
 
 [Föräldrapenning]({{< ref "/post/foraldrarpenning" >}})
+
+## Barnuppfostran
+[Sätta gränser]({{< ref "/post/satta-granser" >}})
+[Växa med ansvar]({{< ref "/post/vaxa-med-ansvar" >}})
+
+## Vill du läsa mina senaste artiklar
+[Artiklar]({{< ref "/archives" >}})
