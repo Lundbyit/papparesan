@@ -31,7 +31,6 @@ Som föräldrar har vi en önskan att uppfostra våra barn till att bli "perfekt
  - **Acceptans**: Det är möjligt att dina barn inte blir exakt som du hade tänkt dig, och det är okej.
  - **Kärlek är det viktigaste**: Det viktigaste är att ditt barn känner sig älskat och accepterat för den de är.
 
- <!-- Växa med ansvar -->
- <!-- Vara närvaranade -->
- <!-- Lära barnet om känslor -->
- <!-- Fokusera på en sak i taget -->
+<!-- Lära barnet om känslor -->
+<!-- Monkey see monkey do, härmar -->
+<!-- lär sig genom att leka -->
