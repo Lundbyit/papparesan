@@ -7,7 +7,6 @@ categories = ["Barnuppfostran"]
 +++
 
 <!-- Lägg till disclaimer att det är mina åsikter? -->
-<!-- kolla varför denna sidan inte visas -->
 # Vikten av att sätta gränser
 Jag tycker att vi som föräldrar har vi ett ansvar att sätta gränser för våra barn. Det handlar inte om att bara skapa regler för reglernas skull, utan om att hjälpa barnet att förstå vad som förväntas av dem och vilka konsekvenser deras handlingar kan få. På så sätt förenklar vi världen för barnet. Världen vi lever i är komplex, och genom att sätta gränser kan vi anpassa svårighetsnivån så att barnet lättare kan navigera i den.
 
@@ -25,7 +24,7 @@ Ibland behöver vi som föräldrar ta ett extra steg och själva ge barnet konse
 På samma sätt kan vi också visa varför det är viktigt att hälsa på människor när vi besöker någon. Barnet kanske inte omedelbart ser några konsekvenser av att inte hälsa, men det handlar om vanlig hyfs och socialt beteende, som vi som föräldrar behöver hjälpa barnet att förstå och träna på.
 
 Personligen tycker jag att detta är en av de svårare utmaningarna i föräldraskapet. Jag tycker att det är viktigare att ge beröm än kritik, och jag tror att nyckeln ligger i att vara konsekvent. Samtidigt kan jag erkänna att jag själv ibland brister i detta. Ibland tummar jag på reglerna, vilket leder till att jag blir en mindre tydlig förebild för barnet. Jag är övertygad om att barn lär sig mer av att se hur vi agerar än av vad vi säger.
-<!-- Kommer eventuellt i annan post Monkey see Monkey Do -->
+[Monkey see, Monkey do]({{< ref "/post/harma" >}})
 
 # Sammanfattning
 Sammanfattningsvis: att sätta gränser handlar inte om att kontrollera, utan om att ge barnet en tydlig bild av världen och hjälpa dem att förstå de konsekvenser deras handlingar kan få. Vi förklarar regler och konsekvenser, men lämnar också utrymme för barnet att fatta sina egna beslut, baserat på den information vi gett.
