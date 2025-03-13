@@ -20,9 +20,10 @@ När jag tänker på de egenskaper och värderingar som jag hoppas mina barn ska
  - **Självdisciplin**: Förmågan att hålla sig fokuserad och inte ge upp lätt.
  - **Känsla av att vara älskad**: Att alltid känna att man är värdefull och älskad, oavsett vad.
 
-## Att förstå att vi inte kan styra allt
-
+## Det är okej att inte vara perfekt
 Som föräldrar har vi en önskan att uppfostra våra barn till att bli "perfekta" människor enligt våra egna värderingar och visioner. Men det är viktigt att komma ihåg att barn är individer med egna personligheter och egenskaper Så oavsett om du gör allting rätt så kanske inte barnet blir som du har tänkt dig ändå. Vi kan inte kontrollera allt i deras liv, och på många sätt är detta en befrielse. Det innebär att vi inte riskerar att skapa en värld full av kopior av oss själva.
+
+Vi som föräldrar behöver inte vara perfekta. Det är en del av livet, jag tror att det är viktigt att inte vara perfekt. För då visar vi barnet att det är okej att inte vara perfekt hela tiden.
 
 ## Några viktiga tankar:
  - **Jämför inte**: Kom ihåg att inte jämföra ditt barn med andra. Varje barn är unikt och har sina egna styrkor och svagheter.
@@ -34,3 +35,4 @@ Som föräldrar har vi en önskan att uppfostra våra barn till att bli "perfekt
 <!-- Lära barnet om känslor -->
 <!-- lär sig genom att leka -->
 <!-- Inre och yttre motivation -->
+<!-- Good enough parenting -->

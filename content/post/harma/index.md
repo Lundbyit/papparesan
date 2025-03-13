@@ -38,16 +38,15 @@ Barn suger upp våra beteenden, men de tar också in våra värderingar. De form
 
 Vad vill vi att våra barn ska bära med sig in i framtiden? Här är några värderingar som jag själv tycker är viktiga att förmedla:
 
-    Du är inte dina resultat. Ditt värde ligger inte i prestationer.
-    Jag älskar dig förutsättningslöst. Du duger som du är.
-    Det är viktigt att anstränga sig. Inte för att vara bäst, utan för att utvecklas.
-    Våga misslyckas. Det är så vi lär oss.
-    Alla situationer – bra eller dåliga – kan lära oss något.
+- Du är inte dina resultat. Ditt värde ligger inte i prestationer.
+- Jag älskar dig förutsättningslöst. Du duger som du är.
+- Det är viktigt att anstränga sig. Inte för att vara bäst, utan för att utvecklas.
+- Våga misslyckas. Det är så vi lär oss.
+- Alla situationer – bra eller dåliga – kan lära oss något.
 
 Vilka värderingar vill du att ditt barn ska ta med sig in i vuxenlivet?
 
 ## Monkey see, monkey do
-
 Barn gör som vi gör – inte som vi säger. De ser upp till oss, även när vi inte tänker på det. De formar sin syn på världen genom oss.
 
 Så nästa gång du undrar varför ditt barn gör något, ställ dig själv frågan:
