@@ -1,6 +1,6 @@
 +++
 date = '2025-03-12T19:43:18+01:00'
-draft = true
+draft = false
 title = 'Monkey See Monkey Do'
 tags = ["Reflektioner", "Barnuppfostran"]
 categories = ["Reflektioner"]
