@@ -1,7 +1,7 @@
 +++
 date = '2025-03-13T19:43:18+01:00'
 draft = false
-title = 'Känslor'
+title = 'Lära ut och acceptera känslor'
 tags = ["Reflektioner", "Barnuppfostran"]
 categories = ["Barnuppfostran"]
 +++
@@ -29,7 +29,15 @@ Nu till vad man kan göra i stället.
 "Jag ser att du är arg"
 "Ja, du är glad"
 
-Ett annat misstag jag tror många gör är att man lägger in värderingar i sina påståenden. Jag kan tyvärr inte komma på något bra exempel just nu, men att man på något sätt kommunicerar medvetet eller omedvetet att man inte gillar när barnet känner vissa känslor.
+Ett annat misstag jag tror många gör är att man lägger in värderingar i sina påståenden eller i sitt kroppspråk. Man kommunicerar medvetet eller omedvetet att man inte gillar när barnet känner vissa känslor.
+
+## Hjälpa barn att hantera deras känslor
+Något jag har hört väldigt ofta är:
+Barn: "Det är varmt"
+Föräldern: "Det är kallt, ta på dig jackan"
+Barn: "Nej, jag är varm"
+Föräldern: "Jag sa, ta på dig jackan!"
+Det kan jag tänka mig kommer hända mig sen när mitt barn är i den åldern.
 
 ## Det är inte lätt
 Det här är något som jag definitivt behöver jobba på. Jag har större delen av mitt liv försökt att inte känna eller visa negativa känslor. Det är väldigt svårt att bara stänga av vissa känslor. Ditt undermedvetna kommer att visa sig när du minst anar det.
