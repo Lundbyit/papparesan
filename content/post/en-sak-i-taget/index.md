@@ -2,6 +2,8 @@
 date = '2025-03-02T19:43:18+01:00'
 draft = false
 title = 'Fokusera på en sak i taget'
+tags = ["Reflektioner", "Barnuppfostran"]
+categories = ["Barnuppfostran"]
 +++
 
 # Fokusera på en sak i taget
