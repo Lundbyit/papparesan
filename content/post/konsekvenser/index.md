@@ -43,8 +43,12 @@ Istället för att säga: ”Var inte så störig!”<!-- skriv ett avsnitt om e
 Jag tror att det är viktigt i detta fallet att inte attackera deras personlighet genom att till exempel säga "Vad dum du är", "Du är en retsticka"
 
 ### 3. Tala om vad du förväntar dig
-Samma scenario som ovan. "Håll i vagnen och gå med mig istället för att springa runt, du stör de andra i butiken". Här tror jag att om man inte är i situationen(i butiken i detta fallet), kan man i vissa fall involvera barnet. Låt säga att barnet gjorde det en gång. När ni kommer hem och både du och barnet är lugna kan man ta upp uppförandet i butiken.
+Samma scenario som ovan. "Håll i vagnen och gå med mig istället för att springa runt, du stör de andra i butiken".
+
+Här tror jag att om man inte är i situationen(i butiken i detta fallet), kan man i vissa fall involvera barnet. Låt säga att barnet gjorde det en gång. När ni kommer hem och både du och barnet är lugna kan man ta upp uppförandet i butiken.
+
 "Jag skulle vilja diskutera om hur vi kan ha en trevligare stund nästa gång vi går i butiken tillsammans".
+
 Sen kan man tillsammans med barnet komma fram till varför barnet gjorde som hen gjorde. Förklara varför det inte är acceptabelt och tillsammans arbeta fram förslag på åtgärder. Det gör två saker, barnet får reflektera över sitt beteende och hen får vara med och bestämma vad som gäller. Det är oftast lättare att följa något som man har bestämt tillsammans än något som någon har bestämt åt en.
 
 ### 4. Visa hur förbättringar kan göra
