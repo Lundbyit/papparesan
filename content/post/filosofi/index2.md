@@ -44,8 +44,6 @@ olika föräldrastilar.
 - Starka barn - lyckliga föräldrar av Jesper Juul
 - Hur man talar så att barn lyssnar och lyssnar så att barn talar av Adele Faber, Elaine Mazlish
 
-- Moa-metoden
-- Föräldrakurser
 - psykologiföreningens webbplats
 
 

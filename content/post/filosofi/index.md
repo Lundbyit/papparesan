@@ -32,8 +32,3 @@ Vi som föräldrar behöver inte vara perfekta. Det är en del av livet, jag tro
  - **Acceptans**: Det är möjligt att dina barn inte blir exakt som du hade tänkt dig, och det är okej.
  - **Kärlek är det viktigaste**: Det viktigaste är att ditt barn känner sig älskat och accepterat för den de är.
 
-<!-- lär sig genom att leka -->
-<!-- Inre och yttre motivation -->
-<!-- Good enough parenting -->
-<!-- Man är ett lag -->
-
