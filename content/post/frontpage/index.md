@@ -9,29 +9,13 @@ Hej och välkommen hit! Den här sidan är för dig som söker lite tips och ins
 
 För att hålla det enkelt och personligt använder jag bara "du" i texterna framöver, oavsett om du är en förälder, ett par eller ett helt gäng som läser tillsammans.
 
-En sak jag verkligen vill skicka med är att vara noga med var du hämtar din information. För oss har 1177.se varit den mest pålitliga källan, och om du är osäker på något kan du alltid prata med en barnmorska eller kanske en doula.
+En sak jag verkligen vill skicka med är att vara noga med var du hämtar din information. För oss har 1177.se varit den mest pålitliga källan, och om du är osäker på något kan du alltid prata med en barnmorska eller kanske en doula. De som vi har blivit rekommenderade finns [här](#trovärdiga-källor)
 
 Här på sidan hittar du mina erfarenheter och tankar. Vissa tips har funkat superbra för oss, men det betyder inte att de passar alla. Så ta dig tid att kika runt och plocka det som känns rätt för just dig, det är bara att ignorera resten!
 
 Kom ihåg att dessa inte är medicinska råd utan åsikter och punkter som vi tyckte var relevanta för oss.
 
-Om du vill veta lite mer om varför jag startade den här sidan kan du läsa vidare här nedan. Eller hoppa direkt till [Några ställen att börja på](#några-ställen-man-kan-börja-på)
-
-# Om sidan
-Jag har alltid älskat att skriva ner tankar och idéer om olika ämnen jag fastnar för, och den här sidan är en samling av mina funderingar kring föräldraskap. Det finns verkligen en uppsjö av information på nätet om hur man ska uppfostra barn, vad man "måste" köpa och vilka metoder som påstås fungera bäst. Det kan kännas överväldigande ibland, eller hur?
-
-Och om det inte räcker med allt man läser, så kommer ofta folk i din omgivning med sina idéer, råd och åsikter – ibland utan att man ens har bett om dem! Det kan handla om allt från hur du ska mata ditt barn till vad du ska tänka på under graviditeten. Personligen gillar jag att lyssna på andras tips och tankar, men jag har lärt mig att det är okej att inte följa allt. De menar oftast väl och vill ditt bästa, men det är du som bäst vet vad som funkar för dig och din familj.
-
-Min ambition med den här sidan är att dela det jag har lärt mig – på ett enkelt, jordnära och praktiskt sätt. Jag hoppas att du hittar något här som känns användbart eller inspirerande för din resa som förälder!
-
-# Trovärdiga källor
-De källor vi har blivit rekommenderade är:
-
-[1177](https://www.1177.se/Vastra-Gotaland/barn--gravid/graviditet/)
-
-[Knodd](https://www.knodd.se/)
-
-[Rikshandboken](https://www.rikshandboken-bhv.se/)
+Om du vill veta lite mer om varför jag startade den här sidan kan du läsa vidare [här](#om-sidan). Eller hoppa direkt till [Några ställen att börja på](#några-ställen-man-kan-börja-på)
 
 # Några ställen man kan börja på
 ## Resan till att bli förälder i kronologisk ordning
@@ -49,9 +33,23 @@ De källor vi har blivit rekommenderade är:
 [Föräldrapenning]({{< ref "/post/foraldrarpenning" >}})
 
 ## Barnuppfostran
-[Sätta gränser]({{< ref "/post/satta-granser" >}})
-
-[Växa med ansvar]({{< ref "/post/vaxa-med-ansvar" >}})
+[Barnuppfostran]({{< ref "/post/barnuppfostran" >}})
 
 ## Vill du läsa mina senaste artiklar
 [Artiklar]({{< ref "/archives" >}})
+
+# Om sidan
+Jag har alltid älskat att skriva ner tankar och idéer om olika ämnen jag fastnar för, och den här sidan är en samling av mina funderingar kring föräldraskap. Det finns verkligen en uppsjö av information på nätet om hur man ska uppfostra barn, vad man "måste" köpa och vilka metoder som påstås fungera bäst. Det kan kännas överväldigande ibland, eller hur?
+
+Och om det inte räcker med allt man läser, så kommer ofta folk i din omgivning med sina idéer, råd och åsikter – ibland utan att man ens har bett om dem! Det kan handla om allt från hur du ska mata ditt barn till vad du ska tänka på under graviditeten. Personligen gillar jag att lyssna på andras tips och tankar, men jag har lärt mig att det är okej att inte följa allt. De menar oftast väl och vill ditt bästa, men det är du som bäst vet vad som funkar för dig och din familj.
+
+Min ambition med den här sidan är att dela det jag har lärt mig – på ett enkelt och praktiskt sätt. Jag hoppas att du hittar något här som känns användbart eller inspirerande för din resa som förälder!
+
+# Trovärdiga källor
+De källor vi har blivit rekommenderade är:
+
+[1177](https://www.1177.se/Vastra-Gotaland/barn--gravid/graviditet/)
+
+[Knodd](https://www.knodd.se/)
+
+[Rikshandboken](https://www.rikshandboken-bhv.se/)

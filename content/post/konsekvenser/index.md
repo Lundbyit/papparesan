@@ -56,6 +56,7 @@ Jag vet inte hur man använder detta verktyget i scenariot ovan. Men om de slår
 
 ### 5. Erbjud ett val
 Scenariot ovan där barnet springer omkring i butiken. "Du kan antingen välja att gå bredvid mig eller så får du sitta i vagnen".
+
 Här tror jag verkligen på att man ska vara beredd att acceptera båda valen. För jag kan tänka mig att barnet ibland kan ta det valet hen vet att du inte vill att hen ska välja bara för att jävlas med dig.
 
 ### 6. Vidta åtgärder
