@@ -36,7 +36,6 @@ Om du vill veta lite mer om varför jag startade den här sidan kan du läsa vid
 [Barnuppfostran]({{< ref "/post/barnuppfostran" >}})
 
 ## Vill du läsa mina senaste artiklar
-[Artiklar]({{< ref "/archives" >}})
 
 # Om sidan
 Jag har alltid älskat att skriva ner tankar och idéer om olika ämnen jag fastnar för, och den här sidan är en samling av mina funderingar kring föräldraskap. Det finns verkligen en uppsjö av information på nätet om hur man ska uppfostra barn, vad man "måste" köpa och vilka metoder som påstås fungera bäst. Det kan kännas överväldigande ibland, eller hur?

@@ -31,8 +31,7 @@ params:
 
     sidebar:
         avatar:
-            enabled: true
-            url: /images/avatar.png
+            enabled: false
         emoji: 🍥
         subtitle: Anteckning från en vanlig pappa
 

@@ -46,7 +46,7 @@ Flow
 # Mindset - Värderingar<!-- Eventuellt flytta -->
 Good enough parenting<!-- TODO-->
 
-Man är ett lag({{< ref "/post/lag" >}})
+[Man är ett lag]({{< ref "/post/lag" >}})
 
 Stoicism
 
