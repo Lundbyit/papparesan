@@ -14,3 +14,8 @@ Om du vill läsa posterna i rätt ordning och ta in informationen steg för steg
 4. [Fjärde trimestern]({{< ref "/post/fjarde-trimestern" >}})
 5. Första tiden <!--Todo-->
 
+
+# Inte riktigt kronologisk
+Sömn
+Problem med magen
+
