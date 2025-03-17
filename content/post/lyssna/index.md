@@ -12,6 +12,8 @@ Det är många som hör vad som sägs i ett samtal men jag tror att det färre s
 
 Jag tror också starkt på att om du är bra på att lyssna så kommer barnet att lyssna på dig. Det är dock ingen garanti på att de kommer lyssna varje gång. Förmodligen kommer du inte lyssna varje gång heller. Då kanske man inte ska kräva det av sitt barn heller.
 
+Om du lyssnar på barnet och är lyhörd kommer barnet känner sig hörd, att du förstår hen, känna mer tillit mot dig och förtroende för dig. Det ökar också chansen för att barnet lyssnar när du pratar.
+
 Jag tänker att jag listar några strategier nedan så att jag kommer ihåg vad jag kan testa när mitt barn börjar prata.
 
 ## Strategier

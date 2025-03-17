@@ -23,8 +23,15 @@ Det finns mycket att läsa om barnuppfostran. Jag har också väldigt mycket tan
 
 [Rutiner och förutsägbarhet]
 
+Vikten av lek Lära sig genom lek<!-- TODO -->
+
+Vara närvarande
+
+Vinn inte alla strider
+
+Beröm - Tveeggat svärd
+
 # Inlärning
-Lära sig genom lek<!-- TODO -->
 
 Läsa
 
@@ -42,6 +49,8 @@ Deliberat practice
 Perspektiv
 
 Flow
+
+Psykologisk trygghet
 
 # Mindset - Värderingar<!-- Eventuellt flytta -->
 Good enough parenting<!-- TODO-->

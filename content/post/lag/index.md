@@ -19,7 +19,7 @@ Som föräldrar vill vi ofta barnets bästa, men i vardagen är det lätt att de
 Du vet att ditt barn behöver sömn för att orka med morgondagen. Men barnet vill inte gå och lägga sig. Diskussionen övergår snabbt i en maktkamp – ett envist "Lägg dig nu!" möts av ett lika envist "Nej!". Ingen vinner, och i slutändan blir alla missnöjda.
 
 Men tänk om vi istället såg oss själva som ett lag i den här situationen? Hur skulle det förändra vårt sätt att agera?
-"Jag vet att du inte vill lägga dig och att det är kul att kolla på TV. Vi har en dag imorgon också, och jag vet att jag själv blir trött och lättirriterad när jag inte har sovit tillräckligt. Hur tror du att du kommer känna dig imorgon om du är trött? Vill du att vi ska hitta en lösning tillsammans?"
+"Jag vet att du tycker det är kul att kolla på TV. Men det är en dag imorgon också. Hur tror du att du kommer känna dig imorgon om du är trött? Vill du att vi ska hitta en lösning tillsammans?"
 
 Genom att lyfta barnets perspektiv och bjuda in till samarbete undviker vi en onödig maktkamp och stärker relationen.
 

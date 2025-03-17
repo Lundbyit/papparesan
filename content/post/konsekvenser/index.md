@@ -60,7 +60,7 @@ Scenariot ovan där barnet springer omkring i butiken. "Du kan antingen välja a
 Här tror jag verkligen på att man ska vara beredd att acceptera båda valen. För jag kan tänka mig att barnet ibland kan ta det valet hen vet att du inte vill att hen ska välja bara för att jävlas med dig.
 
 ### 6. Vidta åtgärder
-Om barnet fortsätter att springa runt i butiken trots varningar, kan du lugnt säga: "Jag ser att du valde att sitta i vagnen." Det är en konsekvens av barnets val, men utan ilska eller bestraffning.
+Om barnet fortsätter att springa runt i butiken trots att du har sagt "Du kan antingen välja att gå bredvid mig eller så får du sitta i vagnen", kan du lugnt säga: "Jag ser att du valde att sitta i vagnen." Det är en konsekvens av barnets val, men utan ilska eller bestraffning.
 
 ### 7. Låt barnet uppleva följderna av sitt dåliga uppförande
 Nästa gång du handlar kanske barnet inte får följa med för att hen inte lyssnade på dig senast.
