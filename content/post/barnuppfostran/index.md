@@ -21,7 +21,9 @@ Det finns mycket att läsa om barnuppfostran. Jag har också väldigt mycket tan
 
 [Växa med ansvar, alternativ till regler baserat på ålder]({{< ref "/post/vaxa-med-ansvar" >}})
 
-[Rutiner och förutsägbarhet]
+[Rutiner]({{< ref "/post/rutiner" >}})
+
+[Förutsägbarhet]({{< ref "/post/forutsagbarhet" >}})
 
 Vikten av lek Lära sig genom lek<!-- TODO -->
 
