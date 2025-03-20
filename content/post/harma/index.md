@@ -29,6 +29,8 @@ Eller klassikern: Vi uppmuntrar våra barn att vara snälla och respektfulla, me
 Något jag tror vi missar som vuxna är också att vi förmedlar våra självbilder också. Jag vill till exempel att barnet ska ha en bra relation till sin kropp. Vad tror du barnet plockar upp om jag varje gång jag kollar mig i spegeln säger "Jag är så tjock, jag borde träna mer." eller "Jag ska nog inte äta så mycket eftersom jag inte vill bli fetare än vad jag är."?
 Trots att du varje gång berättar för barnet att det ser bra ut, att hen är snygg/söt. Jag tror att hen kommer också ha problem med relationen till sin kropp om du har det. Eller om du har dålig självkänsla att barnet också kommer få det.
 
+Därför tror jag att det är viktigt att vi som föräldrar jobbar på oss själva också.
+
 ## Vi är deras förebilder – vare sig vi vill eller inte
 Jag tror att det är viktigare att vara en bra förebild för sitt barn än att bara säga rätt saker. Det är svårt att övertyga någon om något du själv inte lever efter.
 
